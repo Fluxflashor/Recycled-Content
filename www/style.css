@@ -201,6 +201,7 @@ ul.officers {
 	justify-content: center;
 	align-items: flex-start;
 	text-align: center;
+	flex-wrap: wrap;
 }
 
 ul.officers img {
