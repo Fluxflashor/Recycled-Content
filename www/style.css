@@ -81,6 +81,10 @@ header.main.war {
     background: url(images/header-war.jpg) no-repeat;
 }
 
+header.main.ghuun {
+	background: url(images/header-ghuun.jpg) no-repeat;
+}
+
 hr {
 	margin: 30px 0;
 	color: #111;
