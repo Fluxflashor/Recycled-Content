@@ -147,6 +147,7 @@ section.primary {
 	padding-top: 30px;
 	box-shadow: #3a3131 1px 1px 3px;
 	background: #1b1b1b;
+	margin-bottom: 100px;
 }
 
 .flavor {
@@ -259,4 +260,8 @@ ul.officers li + li {
 
 .recruitment img {
 	width: 60px;
+}
+
+ul + p {
+	margin-top: 20px;
 }
